@@ -1,7 +1,7 @@
 {
-  "name": "lorex-ai-bot",
+  "name": "Fb-bot-Page",
   "version": "1.0.0",
-  "description": "A Messenger bot powered by Lorex AI.",
+  "description": "fb bot for students",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -14,8 +14,6 @@
     "cheerio": "^0.22.0",
     "fs-extra": "^11.1.1",
     "@ruingl/gptx": "^1.0.6",
-    "unlimited-ai": "^2.0.2",
-    "samirapi": "^1.0.3",
     "zod": "^3.23.8"
   },
   "devDependencies": {
@@ -30,7 +28,7 @@
     "messenger",
     "bot",
     "ai",
-    "lorex",
+    "fb",
     "chatbot"
   ]
 }
