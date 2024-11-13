@@ -35,9 +35,10 @@
    - Refresh then find the repo that you fork.
    
    **NOW FOR THE IMPORTANT PARTS**
-    
-   - Build command: `npm install`
-   - Start command: `node main.js`
+   
+   - Root Directory: `./`
+   - Build command: `yarn install`
+   - Start command: `node server.js`
    - On Environmental Variables:
    Paste your Page Access token
    
