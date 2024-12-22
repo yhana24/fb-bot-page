@@ -11,7 +11,7 @@ const gptx = new GPTx({
 });
 
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
-const VERIFY_TOKEN = 'lorex';
+const VERIFY_TOKEN = 'EAA3n9jZBXzhUBO0X8LnWZAbJHLXkoj4T2uYlJRY1lsFGQg99u0ZBpBi2VTiKV7Yo24c6HxZBKTSfSM3E75ZAyHlDXYCW0nWuixZCER557i3uLjqG2j4ff4JragXHdzrYZAIV7oI9DjOmjI7JZBJGLoGUTBsbcuVyBq7EuTXGaNZCRsmHBaKkxfQ4sTDt8IoxCW51m3QZDZD';
 const PORT = process.env.PORT || 3000;
 
 const conversationHistory = {};
